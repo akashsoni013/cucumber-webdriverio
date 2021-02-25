@@ -1,5 +1,9 @@
-Cucumber Boilerplate
+Cucumber WebDriverIO
 ====================
+
+To Run the feature file execute '$ npx wdio run wdio.conf.js'
+
+Below are the additional details --
 
 [![Build Status](https://travis-ci.org/webdriverio/cucumber-boilerplate.svg?branch=master)](https://travis-ci.org/webdriverio/cucumber-boilerplate)
 
