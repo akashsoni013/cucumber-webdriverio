@@ -8,7 +8,7 @@ Feature: Add Product test
         And   I clear the inputfield "#email_create"
         When  I add "marketionist@marketionist.com" to the inputfield "#email_create"
         And   I click on the button "#SubmitCreate"
-        Then I wait on element "//input[@id='id_gender1']" for 5000ms to be displayed
+        Then I wait on element "//input[@id='id_gender1']" for 7000ms to be displayed
         And   I click on the element "//input[@id='id_gender1']"
 
 
